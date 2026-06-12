@@ -1,6 +1,7 @@
-# Farm2Home
+# 🌾 Krushi Setu 🚜
 
-Farm2Home is a full-stack e-commerce platform designed to connect farmers directly with consumers, eliminating intermediaries in the sale of vegetables, fruits, and other farm products. This project aims to empower farmers by allowing them to list and manage their products independently while providing consumers with fresh, locally sourced produce.
+
+🌾 Krushi Setu 🚜 is a full-stack e-commerce platform designed to connect farmers directly with consumers, eliminating intermediaries in the sale of vegetables, fruits, and other farm products. This project aims to empower farmers by allowing them to list and manage their products independently while providing consumers with fresh, locally sourced produce.
 
 ## Table of Contents
 
@@ -88,7 +89,7 @@ Please ensure your code adheres to the project's coding standards and include te
 
 ## License
 
-Farm2Home is open source software licensed under the MIT License. This means:
+🌾 Krushi Setu 🚜is open source software licensed under the MIT License. This means:
 
 - You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.
 - The software is provided "as is", without warranty of any kind, express or implied.
@@ -98,5 +99,4 @@ For the full license text, please see the [LICENSE](LICENSE) file in the reposit
 
 ---
 
-For more information or to report issues, please visit the [project repository](https://github.com/whitebeard10/farm2home.git) or reach out to me [LinkedIN](https://www.linkedin.com/in/avinash-chhetri/).
-   
+
